@@ -6,4 +6,6 @@ This is an exercise where we introduce younger students to computational thinkin
 
 This will run both on the Mac & PC.  Clone or download the repository: `git clone https://github.com/maubanel/cosmic-shooter-extended`.
 
+A video version of this can be streamed from [you tube](https://www.youtube.com/edit?o=U&video_id=K9-naCAbo7o).
+
 Run the game by double clicking on `CosmicShooterExtended.yyp`. Full walk-through is included in `instructions1.pdf & instructions2.pdf` (the first pdf is the cosmic-shooter repository and second is this one).
