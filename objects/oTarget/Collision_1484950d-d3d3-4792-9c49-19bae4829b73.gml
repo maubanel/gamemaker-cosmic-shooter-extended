@@ -19,7 +19,7 @@ if (instance_exists(oShip) )
 //If the number of targets gets less than 2 spawn another bullet offscreen
 if (instance_number(oTarget) <= 1)
 {
-	targetX = -64; //temporarilly create new variables
+	targetX = -64; //temporarily create new variables
 	targetY = -64;
 	
 	vertOffScreen = random(2); //roll dice. Above one means horizontally off screen, beow is vertical

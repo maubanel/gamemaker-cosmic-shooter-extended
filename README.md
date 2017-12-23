@@ -8,4 +8,6 @@ This will run both on the Mac & PC.  Clone or download the repository: `git clon
 
 A video version of this can be streamed from [you tube](https://www.youtube.com/edit?o=U&video_id=K9-naCAbo7o).
 
-Run the game by double clicking on `CosmicShooterExtended.yyp`. Full walk-through is included in `instructions1.pdf & instructions2.pdf` (the first pdf is the cosmic-shooter repository and second is this one).
+Run the game by double clicking on `CosmicShooterExtended.yyp`. Full walk-through is included in `instructions part 1.pdf` & `instructions part 2.pdf` (the first pdf is the cosmic-shooter repository and second is this one).
+
+The music and sound effects were all generatively created.  The music was generated on [Wolfram Tones](http://tones.wolfram.com/).
